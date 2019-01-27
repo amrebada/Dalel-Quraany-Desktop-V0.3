@@ -10,8 +10,7 @@ Dalel-Quraany-Desktop-V0.3
 
 
 ```
-ruby
--json simple
+ruby -json simple
 
 ```
 
